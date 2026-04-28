@@ -1,8 +1,6 @@
 # QA-Automation-Portfolio
 Selenium + Manual Testing QA Portfolio
 
-# QA Automation Portfolio
-
 ## Project Overview
 This project includes automation testing using Selenium WebDriver with Node.js and manual testing of the Facebook login page.
 
